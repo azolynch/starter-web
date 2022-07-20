@@ -1,4 +1,10 @@
 Testing this stash thingy.
+<<<<<<< HEAD
 <!--
 	Somthing there
+=======
+
+<!-- 
+	Cherry Pick Me
+>>>>>>> b4e5fe8 (my cherry pick commit)
 -->
